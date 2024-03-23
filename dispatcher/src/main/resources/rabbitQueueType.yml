@@ -1,0 +1,5 @@
+rabbitQueue:
+  messages:
+    update:
+      TEXT: text_message_update
+    answer: answer_update
